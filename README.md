@@ -3,7 +3,7 @@ Criamos um sistema onde podemos selecionar o melhor vendendor, pesquisando pela 
 o numero do meu celular (Cliente) informando os valores do melhor vendendor. 
 Obs: Caso você esteja nesse repositorio, faça um teste no sistema !
 
->>>>>>>>>>>>>>>>>>>>>>>LINK <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+LINK :
 https://dsmetasallysoncosta.netlify.app/
 
 
